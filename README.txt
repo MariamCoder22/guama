@@ -1,6 +1,6 @@
 
 TITLE: 
-Foodee - One Page Responsive Restaurant Website
+Guama - One Page Responsive Restaurant Website
 
 
 CREDITS:
